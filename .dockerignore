@@ -1,0 +1,7 @@
+.env
+node_modules/
+*.log
+*/*.min.js
+*.swp
+.*~
+/src/*.js.map
